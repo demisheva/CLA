@@ -1,6 +1,6 @@
 # CLA
 <p>Computer And Laptop Accessories (only Bootstrap)</p>
-<p>GitHub Pages <a href="">CLA</a><p>
+<p>GitHub Pages <a href="https://demisheva.github.io/CLA/">demisheva.github.io/CLA/</a><p>
 
 <h1>TASK</h1>
 <ul>
